@@ -1,0 +1,17 @@
+{
+  "name": "BowlingGameKata",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jarekb84/BowlingGameKata",
+  "authors": [
+    "Jerry Batorski"
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
